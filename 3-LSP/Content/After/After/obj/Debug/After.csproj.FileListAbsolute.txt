@@ -1,0 +1,10 @@
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\obj\Debug\After.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\obj\Debug\After.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\bin\Debug\After.exe.config
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\bin\Debug\After.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\bin\Debug\After.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\bin\Debug\LSPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\bin\Debug\LSPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\obj\Debug\After.csproj.CopyComplete
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\obj\Debug\After.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Content\After\After\obj\Debug\After.pdb

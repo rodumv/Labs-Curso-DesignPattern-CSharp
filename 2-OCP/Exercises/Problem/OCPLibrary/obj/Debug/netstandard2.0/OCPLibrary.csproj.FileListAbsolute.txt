@@ -1,0 +1,9 @@
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.deps.json
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.AssemblyInfoInputs.cache
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.AssemblyInfo.cs
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\2-OCP\Exercises\Problem\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.pdb

@@ -1,0 +1,9 @@
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.AssemblyInfoInputs.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.AssemblyInfo.cs
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.deps.json
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.pdb

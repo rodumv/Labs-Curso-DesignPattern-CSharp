@@ -1,0 +1,14 @@
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.exe.config
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.exe
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.pdb
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.exe
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.exe.config
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\bin\Debug\Solution.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Solution\Solution\Solution\obj\Debug\Solution.pdb

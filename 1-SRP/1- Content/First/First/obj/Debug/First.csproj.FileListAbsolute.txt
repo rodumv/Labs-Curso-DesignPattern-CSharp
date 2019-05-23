@@ -1,0 +1,14 @@
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\bin\Debug\First.exe.config
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\bin\Debug\First.exe
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\bin\Debug\First.pdb
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\obj\Debug\First.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\obj\Debug\First.exe
+D:\Projects\design-patterns-net\solid\1-SRP\1- Content\First\First\obj\Debug\First.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\bin\Debug\First.exe.config
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\bin\Debug\First.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\bin\Debug\First.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.pdb

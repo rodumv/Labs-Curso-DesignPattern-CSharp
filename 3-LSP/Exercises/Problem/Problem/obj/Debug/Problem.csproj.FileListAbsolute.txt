@@ -1,0 +1,10 @@
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\obj\Debug\Problem.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\bin\Debug\Problem.exe.config
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\bin\Debug\Problem.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\bin\Debug\Problem.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\bin\Debug\LSPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\bin\Debug\LSPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\obj\Debug\Problem.csproj.CopyComplete
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\obj\Debug\Problem.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Problem\Problem\obj\Debug\Problem.pdb

@@ -1,0 +1,10 @@
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\bin\Debug\DIP.exe.config
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\bin\Debug\DIP.exe
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\bin\Debug\DIP.pdb
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\bin\Debug\DIPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\bin\Debug\DIPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\obj\Debug\DIP.csproj.CopyComplete
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\obj\Debug\DIP.exe
+D:\Projects\design-patterns-net\curso\solid\5-DIP\Content\Before\DIP\DIP\obj\Debug\DIP.pdb

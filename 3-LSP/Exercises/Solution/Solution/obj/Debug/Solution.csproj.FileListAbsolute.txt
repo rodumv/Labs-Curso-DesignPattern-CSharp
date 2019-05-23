@@ -1,0 +1,10 @@
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\bin\Debug\Solution.exe.config
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\bin\Debug\Solution.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\bin\Debug\Solution.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\bin\Debug\LSPLibrary.dll
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\bin\Debug\LSPLibrary.pdb
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\obj\Debug\Solution.csproj.CopyComplete
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\obj\Debug\Solution.exe
+D:\Projects\design-patterns-net\curso\solid\3-LSP\Exercises\Solution\Solution\obj\Debug\Solution.pdb

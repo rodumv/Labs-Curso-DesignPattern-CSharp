@@ -1,0 +1,14 @@
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe.config
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.pdb
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.exe
+D:\Projects\design-patterns-net\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe.config
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.pdb
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.exe
+D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.pdb
