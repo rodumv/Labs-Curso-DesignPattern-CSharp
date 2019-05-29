@@ -1,0 +1,7 @@
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\bin\Debug\Abstract.exe
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\bin\Debug\Abstract.pdb
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\Projects\design-patterns-net\curso\Factory\Abstract\Content\Abstract\Abstract\obj\Debug\Abstract.pdb

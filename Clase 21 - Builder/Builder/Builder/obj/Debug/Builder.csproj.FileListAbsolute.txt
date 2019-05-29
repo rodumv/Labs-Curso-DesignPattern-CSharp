@@ -1,0 +1,10 @@
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\bin\Debug\Builder.exe
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\bin\Debug\Builder.pdb
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\bin\Debug\BuilderLibrary.dll
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\bin\Debug\BuilderLibrary.pdb
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\obj\Debug\Builder.csproj.CopyComplete
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\obj\Debug\Builder.exe
+D:\Projects\design-patterns-net\curso\Builder\Content\Builder\Builder\obj\Debug\Builder.pdb

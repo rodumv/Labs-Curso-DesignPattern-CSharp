@@ -1,0 +1,8 @@
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\Projects\design-patterns-net\curso\Singleton\Content\1- Example\Singleton\Singleton\bin\Debug\capitals.txt

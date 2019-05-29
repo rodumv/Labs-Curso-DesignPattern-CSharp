@@ -1,0 +1,7 @@
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\bin\Debug\Example.exe.config
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\bin\Debug\Example.exe
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\bin\Debug\Example.pdb
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\obj\Debug\Example.exe
+D:\Projects\design-patterns-net\curso\ChainResponsability\Example\Example\obj\Debug\Example.pdb

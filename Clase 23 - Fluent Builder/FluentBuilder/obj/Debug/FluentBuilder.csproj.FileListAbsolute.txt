@@ -1,0 +1,7 @@
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\bin\Debug\FluentBuilder.exe.config
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\bin\Debug\FluentBuilder.exe
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\bin\Debug\FluentBuilder.pdb
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\obj\Debug\FluentBuilder.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\obj\Debug\FluentBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\obj\Debug\FluentBuilder.exe
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent\FluentBuilder\obj\Debug\FluentBuilder.pdb

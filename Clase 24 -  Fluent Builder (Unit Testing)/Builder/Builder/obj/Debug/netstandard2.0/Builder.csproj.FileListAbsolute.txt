@@ -1,0 +1,9 @@
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\bin\Debug\netstandard2.0\Builder.deps.json
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\bin\Debug\netstandard2.0\Builder.dll
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\bin\Debug\netstandard2.0\Builder.pdb
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.csprojAssemblyReference.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.csproj.CoreCompileInputs.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.AssemblyInfoInputs.cache
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.AssemblyInfo.cs
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.dll
+D:\Projects\design-patterns-net\curso\Builder\Content\Fluent UnitTesting Example\Builder\Builder\obj\Debug\netstandard2.0\Builder.pdb
