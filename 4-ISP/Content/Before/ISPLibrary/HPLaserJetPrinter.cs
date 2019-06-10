@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 namespace ISPLibrary
 {
-    public class HPLaserJetPrinter : IScan, IPrint, IFax
+    public class HPLaserJetPrinter : IPrinterTask
     {
         public void Fax(string content)
         {

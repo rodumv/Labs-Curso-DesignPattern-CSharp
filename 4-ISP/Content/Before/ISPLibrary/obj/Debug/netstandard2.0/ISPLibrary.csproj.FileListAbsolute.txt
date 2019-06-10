@@ -1,0 +1,9 @@
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\bin\Debug\netstandard2.0\ISPLibrary.deps.json
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\bin\Debug\netstandard2.0\ISPLibrary.dll
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\bin\Debug\netstandard2.0\ISPLibrary.pdb
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.csprojAssemblyReference.cache
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.csproj.CoreCompileInputs.cache
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.AssemblyInfoInputs.cache
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.AssemblyInfo.cs
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.dll
+D:\projects\rodumv\github\Labs-Curso-DesignPattern-CSharp\4-ISP\Content\Before\ISPLibrary\obj\Debug\netstandard2.0\ISPLibrary.pdb

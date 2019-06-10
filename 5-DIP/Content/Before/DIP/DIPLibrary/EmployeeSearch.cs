@@ -7,16 +7,16 @@ namespace DIPLibrary
 {
     public class EmployeeSearch
     {
-        private readonly IEmployeeSearcheable employeeSearch;
+        private readonly EmployeeManager employeeSearch;
 
-        public EmployeeSearch(IEmployeeSearcheable employeeManager)
+        public EmployeeSearch(EmployeeManager employeeManager)
         {
             this.employeeSearch = employeeManager;
         }
 
-        public int GetEmployeesByGenderAndRole(Gender gender, Role role)
+        public int GetMaleExecutives()
         {
-           return employeeSearch.GetEmployeesByGenderAndRole(gender, role);
+            throw new NotImplementedException();
         }
 
     }

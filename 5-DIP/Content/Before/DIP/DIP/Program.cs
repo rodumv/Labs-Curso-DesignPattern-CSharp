@@ -22,10 +22,7 @@ namespace DIP
             foreach (var employee in employees)
                employeManager.Save(employee);
 
-           var search =  new EmployeeSearch(employeManager);
-
-           Console.WriteLine($" Cantidad de Empleados Ejecutivos y de genero Masculino:  {search.GetEmployeesByGenderAndRole(Gender.Male, Role.Executive)}");
-           Console.ReadLine();
+            Console.ReadLine();
 
         }
 

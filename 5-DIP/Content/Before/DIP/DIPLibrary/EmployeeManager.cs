@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DIPLibrary
 {
-    public class EmployeeManager : IEmployeeSearcheable
+    public class EmployeeManager 
     {
         private readonly List<Employee> _employees = new List<Employee>();
 
@@ -14,9 +14,5 @@ namespace DIPLibrary
             _employees.Add(employee);
         }
 
-        public int GetEmployeesByGenderAndRole(Gender gender, Role role)
-        {
-           return  _employees.Where(o => o.Gender == gender && o.Role == role).ToList().Count();
-        }
     }
 }

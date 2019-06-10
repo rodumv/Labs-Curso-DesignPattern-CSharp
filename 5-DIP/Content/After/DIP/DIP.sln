@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP", "DIP\DIP.csproj", "{2E83D8A0-8D55-464C-9650-4D6B042E1782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "DIPLibrary\DIPLibrary.csproj", "{9BEDE80E-BF51-4C40-BBEF-398799A7961B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E83D8A0-8D55-464C-9650-4D6B042E1782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E83D8A0-8D55-464C-9650-4D6B042E1782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E83D8A0-8D55-464C-9650-4D6B042E1782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E83D8A0-8D55-464C-9650-4D6B042E1782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEDE80E-BF51-4C40-BBEF-398799A7961B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEDE80E-BF51-4C40-BBEF-398799A7961B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEDE80E-BF51-4C40-BBEF-398799A7961B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEDE80E-BF51-4C40-BBEF-398799A7961B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CC993B-3D01-4141-9972-C69D99A03F20}
+	EndGlobalSection
+EndGlobal
