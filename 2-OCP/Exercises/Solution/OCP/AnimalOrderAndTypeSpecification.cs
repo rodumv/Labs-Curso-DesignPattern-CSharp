@@ -4,11 +4,11 @@ using System.Text;
 
 namespace OCP
 {
-    class IAnimalOrderAndTypeSpecification : ISpecification<Animal>
+    class AnimalOrderAndTypeSpecification : ISpecification<Animal>
     {
         AnimalClass _animalClass;
         AnimalOrder _animalOrder;
-        public IAnimalOrderAndTypeSpecification(AnimalClass animalClass, AnimalOrder animalOrder)
+        public AnimalOrderAndTypeSpecification(AnimalClass animalClass, AnimalOrder animalOrder)
         {
             _animalClass = animalClass;
             _animalOrder = animalOrder;
