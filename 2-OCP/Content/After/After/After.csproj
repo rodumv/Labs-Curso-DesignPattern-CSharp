@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2F03942-639F-4DD6-8217-26E243905693}</ProjectGuid>
+    <ProjectGuid>{B2C37D30-E792-4C37-A2FE-10C85D4CDADB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>After</RootNamespace>
-    <AssemblyName>After</AssemblyName>
+    <RootNamespace>Before</RootNamespace>
+    <AssemblyName>Before</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountService.cs" />
+    <Compile Include="IAccountService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OCPLibrary\OCPLibrary.csproj">
+      <Project>{d7839b65-ec7e-42b4-9993-0a27d765c9ba}</Project>
+      <Name>OCPLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

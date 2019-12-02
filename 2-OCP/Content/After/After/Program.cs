@@ -1,25 +1,33 @@
-﻿using LSPLibrary;
-using System;
+﻿using OCPLibrary;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace After
+using static System.Console;
+namespace Before
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Player player = new TennisPlayer();
-            player.FirstName = "Walter";
-            player.LastName = "Olivares";
-            player.AssignTeam(new Team { Name = "Santos" });
-            player.SetCategory(PlayerCategory.Amateur);
+            List<IApplicant> persons = new List<IApplicant>()
+            {
+                new Person{ FirstName = "Rodrigo", LastName="Morales"},
+                new Doctor{ FirstName = "Miguel", LastName="Sandoval"},
+                new Nurse{ FirstName = "Robert", LastName="Martin"}
+            };
 
+            List<Staff> staffs = new List<Staff>();
+            foreach(var staff in persons)
+            {
+                staffs.Add(staff.Processor.Create(staff));
+            }
 
-            Console.Write($"{player.FirstName} {player.LastName} equipo {player.GetTeam()} categoria  {player.Category}");
-            Console.ReadLine();
+            foreach (var staff in staffs)
+            {
+                WriteLine($"Bienvenido {staff.FirstName}, {staff.LastName} , {staff.Email}");
+            }
+            ReadLine();
         }
+        
+
+
     }
 }
